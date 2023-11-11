@@ -1,6 +1,6 @@
 {
-  "name": "portfolio-next",
-  "version": "0.1.0",
+  "name": "nextjs-portfolio-example",
+  "version": "0.1.1",
   "private": true,
   "license": "MIT",
   "scripts": {

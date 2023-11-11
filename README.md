@@ -1,12 +1,5 @@
 <div align="center">
 
-![Cover](https://imgur.com/Kpzk2LQ.png)
-
-![Github stars](https://img.shields.io/github/stars/j471n/j471n.in?style=flat-square)
-![Github Forks](https://img.shields.io/github/forks/j471n/j471n.in?style=flat-square)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/j471n/j471n.in?style=flat-square)
-![GitHub repo size](https://img.shields.io/github/repo-size/j471n/j471n.in?style=flat-square)
-
 </div>
 
 ## Tools Used
@@ -26,18 +19,6 @@
 - [React Toastify](https://github.com/fkhadra/react-toastify)
 
 ## Run Locally
-
-Clone the project:
-
-```bash
-git clone https://github.com/j471n/j471n.in.git
-```
-
-Go to the project directory:
-
-```bash
-cd j471n.in
-```
 
 Install dependencies
 
